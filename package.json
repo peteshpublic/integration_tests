@@ -19,5 +19,8 @@
   "homepage": "https://github.com/peteshpublic/integration_tests#readme",
   "dependencies": {
     "leftpad": "0.0.1"
+  },
+  "devDependencies": {
+    "sinon": "^4.0.1"
   }
 }
