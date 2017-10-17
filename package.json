@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/peteshpublic/integration_tests#readme",
   "dependencies": {
+    "@datreeio/nodedepextractor": "^0.1.1",
     "leftpad": "0.0.1"
   },
   "devDependencies": {
